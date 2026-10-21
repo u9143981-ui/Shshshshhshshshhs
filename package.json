@@ -1,0 +1,14 @@
+{
+  "name": "combo-vc-checker-bot",
+  "version": "1.0.0",
+  "description": "VC Joiner and Card Checker Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "express": "^4.19.2",
+    "telegram": "^2.22.2"
+  }
+}
